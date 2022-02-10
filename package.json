@@ -22,7 +22,7 @@
     "@vue/cli-plugin-babel": "^3.0.4",
     "@vue/cli-plugin-pwa": "^3.0.4",
     "@vue/cli-service": "^3.0.4",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "push-dir": "^0.4.1",
     "sass": "^1.17.4",
     "sass-loader": "^7.1.0",
